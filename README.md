@@ -1,5 +1,8 @@
-### Howdy! 👋
-#### I'm a developer in the progressive tech space
+### Howdy, I'm Ian! 👋
+
+- 🗳️ I develop data ecosystems to help progressive political orgs build power
+- 🧠 I'm a former academic and love learning about novel approaches to modeling the social brain!
+
 
 <!--
 **IanRFerguson/IanRFerguson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
