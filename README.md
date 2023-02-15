@@ -1,7 +1,8 @@
-### Howdy, I'm Ian! 👋
+### Howdy, I'm Ian! 🤠
 
-- 🗳️ I develop data ecosystems to help progressive political orgs build power
-- 🧠 I'm a former academic and love learning about novel approaches to modeling the social brain!
+- 🗳️ I develop data pipelines and ecosystems to help progressive political orgs build power
+- 🧠 I'm a former academic and love learning about novel ways to model the social brain!
+- 🏀 My other passions include modeling and visualizing sports data (how good CAN the Knicks be this year?)
 
 
 <!--
