@@ -1,4 +1,5 @@
-### Hi there 👋
+### Howdy! 👋
+#### I'm a developer in the progressive tech space
 
 <!--
 **IanRFerguson/IanRFerguson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
