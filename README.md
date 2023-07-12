@@ -3,7 +3,6 @@
 - 🗽 I'm an engineer based in New York
 - 🗳️ I develop data pipelines and ecosystems to help progressive political orgs build power
 - 🧠 I'm a former academic and love learning about novel ways to model the social brain!
-- 🏀 📷 I love watching basketball and taking street photos in my free time
 
 
 <!--
